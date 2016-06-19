@@ -6,6 +6,10 @@ IF YOU ARE AN AUTHOR OF SOME OF THE BOOKS AND **YOU DON'T AGREE WITH PUBLIC ACCE
 
 The MIT License (MIT)
 
+## Data Structures and Algorithms
+
+[Data Structures and Algorithms with JavaScript Kindle Edition by Michael McMillan - 2014](%5BData%20Structures%20and%20Algorithms%20with%20JavaScript%20Kindle%20Edition%20by%20Michael%20McMillan%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Structures-Algorithms-JavaScript-Michael-McMillan-ebook/dp/B00IV3J23Y/ref=mt_kindle?_encoding=UTF8&me=)  
+
 ## Angular
 
 [Responsive Web Design with AngularJS by Sandeep Kumar Patel - 2014](%5BResponsive%20Web%20Design%20with%20AngularJS%20by%20Sandeep%20Kumar%20Patel%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Responsive-Design-AngularJS-Sandeep-Kumar-ebook/dp/B00R6585K4?ie=UTF8&qid=1462742823&ref_=tmm_kin_swatch_0&sr=1-1)  
@@ -37,6 +41,7 @@ The MIT License (MIT)
 [Secrets of the JavaScript Ninja 1st Edition by John Resig - 2008](%5BSecrets%20of%20the%20JavaScript%20Ninja%201st%20Edition%20by%20John%20Resig%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1466359869&sr=1-2-catcorr&keywords=secrets+of+javascript+ninja)  
 [Maintainable JavaScript Kindle Edition by Nicholas C. Zakas - 2012](%5BMaintainable%20JavaScript%20Kindle%20Edition%20by%20Nicholas%20C.%20Zakas%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas-ebook/dp/B0082CXEB0/ref=mt_kindle?_encoding=UTF8&me=)  
 [Object-oriented JavaScript - Second Edition - Learn a More Powerful Approach to Web Development Kindle Edition by Stoyan Stefanov - 2008](%5BObject-oriented%20JavaScript%20-%20Second%20Edition%20-%20Learn%20a%20More%20Powerful%20Approach%20to%20Web%20Development%20Kindle%20Edition%20by%20Stoyan%20Stefanov%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Object-oriented-JavaScript-Powerful-Approach-Development-ebook/dp/B00E7NCAYA/ref=mt_kindle?_encoding=UTF8&me=)  
+[Pragmatic Guide to JavaScript (Pragmatic Programmers) 1st Edition by Christophe Porteneuve - 2010](%5BPragmatic%20Guide%20to%20JavaScript%20(Pragmatic%20Programmers)%201st%20Edition%20by%20Christophe%20Porteneuve%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/Pragmatic-Guide-JavaScript-Programmers/dp/1934356670/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1466361231&sr=1-1-catcorr&keywords=Pragmatic+Guide+to+JavaScript)  
 
 ## Google Closure
 
@@ -45,6 +50,10 @@ The MIT License (MIT)
 ## Functional JavaScript
 
 [Functional JavaScript: Introducing Functional Programming with Underscore.js 1st Edition by Michael Fogus - 2013](%5BFunctional%20JavaScript%20Introducing%20Functional%20Programming%20with%20UnderscoreJS%201st%20Edition%20by%20Michael%20Fogus%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO?ie=UTF8&me=&ref_=mt_kindle)  
+
+## Networks
+
+[High Performance Browser Networking: What every web developer should know about networking and web performance Kindle Edition by Ilya Grigorik - 2013](%5BHigh%20Performance%20Browser%20Networking%20What%20every%20web%20developer%20should%20know%20about%20networking%20and%20web%20performance%20Kindle%20Edition%20by%20Ilya%20Grigorik%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/High-Performance-Browser-Networking-performance-ebook/dp/B00FM0OC4S/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Performance
 
@@ -64,11 +73,18 @@ The MIT License (MIT)
 
 [Ajax Security by Billy Hoffman - 2008](%5BAjax%20Security%20by%20Billy%20Hoffman%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Ajax-Security-Billy-Hoffman-ebook/dp/B004V9O64W/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1462777752&sr=1-1&keywords=Ajax+Security)  
 [JavaScript Security Kindle Edition by Y.E Liang - 2014](%5BJavaScript%20Security%20Kindle%20Edition%20by%20Y.E%20Liang%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Security-Y-E-Liang-ebook/dp/B00Q2N0CLG/ref=mt_kindle?_encoding=UTF8&me=)  
+[The Browser Hacker's Handbook Kindle Edition by Wade Alcorn - 2014](%5BThe%20Browser%20Hacker's%20Handbook%20Kindle%20Edition%20by%20Wade%20Alcorn%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6/ref=mt_kindle?_encoding=UTF8&me=)  
+[The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws Kindle Edition by Dafydd Stuttard - 2011](%5BThe%20Web%20Application%20Hacker's%20Handbook%20Finding%20and%20Exploiting%20Security%20Flaws%20Kindle%20Edition%20by%20Dafydd%20Stuttard%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Testing
 
 [Jasmine Cookbook Kindle Edition by Munish Sethi - 2014](%5BJasmine%20Cookbook%20Kindle%20Edition%20by%20Munish%20Sethi%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Jasmine-Cookbook-Munish-Sethi-ebook/dp/B00WQWY8SA?ie=UTF8&qid=1463342954&ref_=tmm_kin_swatch_0&sr=1-1)  
 [JavaScript Unit Testing Kindle Edition by Hazem Saleh - 2013](%5BJavaScript%20Unit%20Testing%20Kindle%20Edition%20by%20Hazem%20Saleh%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Unit-Testing-Hazem-Saleh-ebook/dp/B00B16YI5U?ie=UTF8&qid=1463343019&ref_=tmm_kin_swatch_0&sr=1-1) 
+[Testable JavaScript Kindle Edition by Mark Ethan Trostler - 2013](%5BTestable%20JavaScript%20Kindle%20Edition%20by%20Mark%20Ethan%20Trostler%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler-ebook/dp/B00B1WLE92/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466361548&sr=1-1&keywords=Testable+JavaScript)  
+
+## HTML5
+
+[Web Workers: Multithreaded Programs in JavaScript Kindle Edition by Ido Green - 2012](%5BWeb%20Workers%20Multithreaded%20Programs%20in%20JavaScript%20Kindle%20Edition%20by%20Ido%20Green%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Web-Workers-Multithreaded-Programs-JavaScript-ebook/dp/B0086I5OKY/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## HTML
 
@@ -76,3 +92,7 @@ The MIT License (MIT)
 [HTML5 Hacks 1st Edition by Jesse Cravens, Jeff Burtoft - 2013](%5BHTML5%20Hacks%201st%20Edition%20by%20Jesse%20Cravens%2C%20Jeff%20Burtoft%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Hacks-Jesse-Cravens-ebook/dp/B00A7IHEX6?ie=UTF8&me=&ref_=mt_kindle)  
 [Web Standards: Mastering HTML5, CSS3, and XML by Leslie F. Sikos Ph.D. - 2014](%5BWeb%20Standards%20Mastering%20HTML5%2C%20CSS3%2C%20and%20XML%20by%20Leslie%20F.%20Sikos%20Ph.D.%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Web-Standards-Mastering-HTML5-CSS3-ebook/dp/B00OPTU7I2?ie=UTF8&me=&ref_=mt_kindle)  
 [Pro HTML5 Performance (Expert's Voice in Web Development) by Jay Bryant, Mike Jones - 2012](%5BHTML%5D%5BPro%20HTML5%20Performance%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Performance-Experts-Voice-Development-ebook/dp/B009TGE872?ie=UTF8&me=&ref_=mt_kindle)  
+
+## Other
+
+[The Parallel Event Loop Model and Runtime be Daniele Bonetta - 2014](%5BThe%20Parallel%20Event%20Loop%20Model%20and%20Runtime%20be%20Daniele%20Bonetta%20-%202014%5D.pdf)  
