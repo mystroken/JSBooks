@@ -79,7 +79,7 @@ The MIT License (MIT)
 ## Testing
 
 [Jasmine Cookbook Kindle Edition by Munish Sethi - 2014](%5BJasmine%20Cookbook%20Kindle%20Edition%20by%20Munish%20Sethi%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Jasmine-Cookbook-Munish-Sethi-ebook/dp/B00WQWY8SA?ie=UTF8&qid=1463342954&ref_=tmm_kin_swatch_0&sr=1-1)  
-[JavaScript Unit Testing Kindle Edition by Hazem Saleh - 2013](%5BJavaScript%20Unit%20Testing%20Kindle%20Edition%20by%20Hazem%20Saleh%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Unit-Testing-Hazem-Saleh-ebook/dp/B00B16YI5U?ie=UTF8&qid=1463343019&ref_=tmm_kin_swatch_0&sr=1-1) 
+[JavaScript Unit Testing Kindle Edition by Hazem Saleh - 2013](%5BJavaScript%20Unit%20Testing%20Kindle%20Edition%20by%20Hazem%20Saleh%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Unit-Testing-Hazem-Saleh-ebook/dp/B00B16YI5U?ie=UTF8&qid=1463343019&ref_=tmm_kin_swatch_0&sr=1-1)  
 [Testable JavaScript Kindle Edition by Mark Ethan Trostler - 2013](%5BTestable%20JavaScript%20Kindle%20Edition%20by%20Mark%20Ethan%20Trostler%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler-ebook/dp/B00B1WLE92/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466361548&sr=1-1&keywords=Testable+JavaScript)  
 
 ## HTML5
