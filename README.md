@@ -85,9 +85,6 @@ The MIT License (MIT)
 ## HTML5
 
 [Web Workers: Multithreaded Programs in JavaScript Kindle Edition by Ido Green - 2012](%5BWeb%20Workers%20Multithreaded%20Programs%20in%20JavaScript%20Kindle%20Edition%20by%20Ido%20Green%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Web-Workers-Multithreaded-Programs-JavaScript-ebook/dp/B0086I5OKY/ref=mt_kindle?_encoding=UTF8&me=)  
-
-## HTML
-
 [HTML5 Foundations 1st Edition by Matt West - 2013](%5BHTML5%20Foundations%201st%20Edition%20by%20Matt%20West%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Foundations-Treehouse-Book-Matt-ebook/dp/B00AHJNUWY?ie=UTF8&me=&ref_=mt_kindle)  
 [HTML5 Hacks 1st Edition by Jesse Cravens, Jeff Burtoft - 2013](%5BHTML5%20Hacks%201st%20Edition%20by%20Jesse%20Cravens%2C%20Jeff%20Burtoft%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Hacks-Jesse-Cravens-ebook/dp/B00A7IHEX6?ie=UTF8&me=&ref_=mt_kindle)  
 [Web Standards: Mastering HTML5, CSS3, and XML by Leslie F. Sikos Ph.D. - 2014](%5BWeb%20Standards%20Mastering%20HTML5%2C%20CSS3%2C%20and%20XML%20by%20Leslie%20F.%20Sikos%20Ph.D.%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Web-Standards-Mastering-HTML5-CSS3-ebook/dp/B00OPTU7I2?ie=UTF8&me=&ref_=mt_kindle)  
