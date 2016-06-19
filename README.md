@@ -22,6 +22,8 @@ The MIT License (MIT)
 ## Design Patterns
 
 [Mastering JavaScript Design Patterns - Essential Solutions for Effective JavaScript Web Design by Simon Timms - 2014](%5BMastering%20JavaScript%20Design%20Patterns%20-%20Essential%20Solutions%20for%20Effective%20JavaScript%20Web%20Design%20by%20Simon%20Timms%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Mastering-JavaScript-Design-Patterns-Essential-ebook/dp/B00Q2N0CKW?ie=UTF8&qid=1462779581&ref_=tmm_kin_swatch_0&sr=1-1)  
+[JavaScript Patterns Kindle Edition by Stoyan Stefanov - 2010](%5BJavaScript%20Patterns%20Kindle%20Edition%20by%20Stoyan%20Stefanov%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov-ebook/dp/B0046RERXE/ref=mt_kindle?_encoding=UTF8&me=)  
+[Learning JavaScript Design Patterns Kindle Edition by Addy Osmani - 2012](%5BLearning%20JavaScript%20Design%20Patterns%20Kindle%20Edition%20by%20Addy%20Osmani%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Learning-JavaScript-Design-Patterns-Osmani-ebook/dp/B008VJSPZE/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## ExtJS
 
@@ -32,6 +34,9 @@ The MIT License (MIT)
 [JavaScript: The Good Parts 1st Edition by Douglas Crockford - 2008](%5BJavaScript%20The%20Good%20Parts%201st%20Edition%20by%20Douglas%20Crockford%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Good-Parts-ebook/dp/B0026OR2ZY?ie=UTF8&me=&ref_=mt_kindle)  
 [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series) by David Herman - 2013](%5BEffective%20JavaScript%2068%20Specific%20Ways%20to%20Harness%20the%20Power%20of%20JavaScript%20(Effective%20Software%20Development%20Series)%20by%20David%20Herman%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development-ebook/dp/B00AC1RP14?ie=UTF8&me=&ref_=mt_kindle)  
 [JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides) by David Flanagan - 2011](%5BJavaScript%20The%20Definitive%20Guide%20Activate%20Your%20Web%20Pages%20(Definitive%20Guides)%20by%20David%20Flanagan%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides-ebook/dp/B004XQX4K0?ie=UTF8&qid=1463343191&ref_=tmm_kin_swatch_0&sr=8-1)  
+[Secrets of the JavaScript Ninja 1st Edition by John Resig - 2008](%5BSecrets%20of%20the%20JavaScript%20Ninja%201st%20Edition%20by%20John%20Resig%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1466359869&sr=1-2-catcorr&keywords=secrets+of+javascript+ninja)  
+[Maintainable JavaScript Kindle Edition by Nicholas C. Zakas - 2012](%5BMaintainable%20JavaScript%20Kindle%20Edition%20by%20Nicholas%20C.%20Zakas%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas-ebook/dp/B0082CXEB0/ref=mt_kindle?_encoding=UTF8&me=)  
+[Object-oriented JavaScript - Second Edition - Learn a More Powerful Approach to Web Development Kindle Edition by Stoyan Stefanov - 2008](%5BObject-oriented%20JavaScript%20-%20Second%20Edition%20-%20Learn%20a%20More%20Powerful%20Approach%20to%20Web%20Development%20Kindle%20Edition%20by%20Stoyan%20Stefanov%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Object-oriented-JavaScript-Powerful-Approach-Development-ebook/dp/B00E7NCAYA/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Google Closure
 
@@ -58,6 +63,7 @@ The MIT License (MIT)
 ## Security
 
 [Ajax Security by Billy Hoffman - 2008](%5BAjax%20Security%20by%20Billy%20Hoffman%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Ajax-Security-Billy-Hoffman-ebook/dp/B004V9O64W/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1462777752&sr=1-1&keywords=Ajax+Security)  
+[JavaScript Security Kindle Edition by Y.E Liang - 2014](%5BJavaScript%20Security%20Kindle%20Edition%20by%20Y.E%20Liang%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Security-Y-E-Liang-ebook/dp/B00Q2N0CLG/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Testing
 
