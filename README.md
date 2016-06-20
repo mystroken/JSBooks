@@ -23,11 +23,23 @@ The MIT License (MIT)
 
 [Async JavaScript Build More Responsive Apps with Less Code by Trevor Burnham - 2012](%5BAsync%20JavaScript%20Build%20More%20Responsive%20Apps%20with%20Less%20Code%20by%20Trevor%20Burnham%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Async-JavaScript-Responsive-Pragmatic-Express-ebook/dp/B00AKM4RVG?ie=UTF8&me=&ref_=mt_kindle)  
 
+## Certification
+
+[Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3 (MCSD): Programming in HTML5 with JavaScript and CSS3 Kindle Edition by Rick Delorme - 2014](%5BExam%20Ref%2070-480%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%20(MCSD)%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%20Kindle%20Edition%20by%20Rick%20Delorme%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Exam-70-480-Programming-HTML5-JavaScript-ebook/dp/B00MNJ7PCC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466457845&sr=1-1&keywords=Exam+Ref+70-480+Programming+in+HTML5)  
+
 ## Design Patterns
 
 [Mastering JavaScript Design Patterns - Essential Solutions for Effective JavaScript Web Design by Simon Timms - 2014](%5BMastering%20JavaScript%20Design%20Patterns%20-%20Essential%20Solutions%20for%20Effective%20JavaScript%20Web%20Design%20by%20Simon%20Timms%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Mastering-JavaScript-Design-Patterns-Essential-ebook/dp/B00Q2N0CKW?ie=UTF8&qid=1462779581&ref_=tmm_kin_swatch_0&sr=1-1)  
 [JavaScript Patterns Kindle Edition by Stoyan Stefanov - 2010](%5BJavaScript%20Patterns%20Kindle%20Edition%20by%20Stoyan%20Stefanov%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov-ebook/dp/B0046RERXE/ref=mt_kindle?_encoding=UTF8&me=)  
 [Learning JavaScript Design Patterns Kindle Edition by Addy Osmani - 2012](%5BLearning%20JavaScript%20Design%20Patterns%20Kindle%20Edition%20by%20Addy%20Osmani%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Learning-JavaScript-Design-Patterns-Osmani-ebook/dp/B008VJSPZE/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## Domain-Driven Design
+
+[JavaScript Domain-Driven Design Kindle Edition by Philipp Fehre - 2015](%5BJavaScript%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Philipp%20Fehre%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Domain-Driven-Design-Philipp-Fehre-ebook/dp/B010T2671O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466457764&sr=1-1&keywords=JavaScript+Domain-Driven+Design)  
+
+## D3
+
+[D3 Tips and Tricks: Interactive Data Visualization in a Web Browser Kindle Edition by Malcolm Maclean - 2014](%5BD3%20Tips%20and%20Tricks%20Interactive%20Data%20Visualization%20in%20a%20Web%20Browser%20Kindle%20Edition%20by%20Malcolm%20Maclean%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/D3-Tips-Tricks-Interactive-Visualization-ebook/dp/B00IZ6P1KU/ref=sr_1_1?ie=UTF8&qid=1466457604&sr=8-1&keywords=D3+Tips+and+Tricks)  
 
 ## ExtJS
 
@@ -47,6 +59,10 @@ The MIT License (MIT)
 
 [Closure: The Definitive Guide by Michael Bolin - 2010](%5BClosure%20The%20Definitive%20Guide%20by%20Michael%20Bolin%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/Closure-Definitive-Guide-Michael-Bolin-ebook/dp/B0046RERYI?ie=UTF8&me=&ref_=mt_kindle)  
 
+## JQuery
+
+[jQuery: Novice to Ninja: Novice to Ninja Kindle Edition by Earle Castledine - 2012](%5BjQuery%20Novice%20to%20Ninja%20Novice%20to%20Ninja%20Kindle%20Edition%20by%20Earle%20Castledine%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/jQuery-Novice-Ninja-ebook/dp/B00TJ6UXQW/ref=mt_kindle?_encoding=UTF8&me=)  
+
 ## Functional JavaScript
 
 [Functional JavaScript: Introducing Functional Programming with Underscore.js 1st Edition by Michael Fogus - 2013](%5BFunctional%20JavaScript%20Introducing%20Functional%20Programming%20with%20UnderscoreJS%201st%20Edition%20by%20Michael%20Fogus%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js-ebook/dp/B00D624AQO?ie=UTF8&me=&ref_=mt_kindle)  
@@ -59,6 +75,7 @@ The MIT License (MIT)
 
 [Mastering JavaScript High Performance by Chad R. Adams - 2015](%5BMastering%20JavaScript%20High%20Performance%20by%20Chad%20R.%20Adams%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Mastering-JavaScript-High-Performance-Adams-ebook/dp/B00VGE6AAI?ie=UTF8&qid=1462779439&ref_=tmm_kin_swatch_0&sr=1-1)  
 [High Performance JavaScript (Build Faster Web Application Interfaces) by Nicholas C. Zakas - 2010](%5BHigh%20Performance%20JavaScript%20(Build%20Faster%20Web%20Application%20Interfaces)%20by%20Nicholas%20C.%20Zakas%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces-ebook/dp/B0043D2F62?ie=UTF8&me=&ref_=mt_kindle)  
+[Professional Website Performance: Optimizing The Front End And The Back End by Peter Smith – 2013](%5BProfessional%20Website%20Performance%20Optimizing%20The%20Front%20End%20And%20The%20Back%20End%20by%20Peter%20Smith%20–%202013%5D.pdf) [**Buy**](https://www.amazon.com/Professional-Website-Performance-Optimizing-Front/dp/812654015X/ref=sr_1_2?ie=UTF8&qid=1466457408&sr=8-2&keywords=Professional+Website+Performance+Optimizing+the+Front+End+and+the+Back+End)  
 
 ## Promises
 
@@ -75,6 +92,7 @@ The MIT License (MIT)
 [JavaScript Security Kindle Edition by Y.E Liang - 2014](%5BJavaScript%20Security%20Kindle%20Edition%20by%20Y.E%20Liang%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Security-Y-E-Liang-ebook/dp/B00Q2N0CLG/ref=mt_kindle?_encoding=UTF8&me=)  
 [The Browser Hacker's Handbook Kindle Edition by Wade Alcorn - 2014](%5BThe%20Browser%20Hacker's%20Handbook%20Kindle%20Edition%20by%20Wade%20Alcorn%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6/ref=mt_kindle?_encoding=UTF8&me=)  
 [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws Kindle Edition by Dafydd Stuttard - 2011](%5BThe%20Web%20Application%20Hacker's%20Handbook%20Finding%20and%20Exploiting%20Security%20Flaws%20Kindle%20Edition%20by%20Dafydd%20Stuttard%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S/ref=mt_kindle?_encoding=UTF8&me=)  
+[CORS in Action: Creating and consuming cross-origin APIs 1st Edition by Monsur Hossain - 2015](%5BCORS%20in%20Action%20Creating%20and%20consuming%20cross-origin%20APIs%201st%20Edition%20by%20Monsur%20Hossain%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/CORS-Action-Creating-consuming-cross-origin/dp/161729182X/ref=sr_1_1?ie=UTF8&qid=1466457499&sr=8-1&keywords=Cors+in+action)  
 
 ## Testing
 
