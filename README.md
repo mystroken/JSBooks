@@ -18,7 +18,7 @@ The MIT License (MIT)
 [AngularJS: Up and Running: Enhanced Productivity with Structured Web Apps by Shyam Seshadri, Brad Green - 2014](%5BAngularJS%20Up%20and%20Running%20Enhanced%20Productivity%20with%20Structured%20Web%20Apps%20by%20Shyam%20Seshadri%2C%20Brad%20Green%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/AngularJS-Running-Enhanced-Productivity-Structured-ebook/dp/B00NF07FSC?ie=UTF8&me=&ref_=mt_kindle)  
 [Data-oriented Development with AngularJS by Manoj Waikar - 2015](%5BData-oriented%20Development%20with%20AngularJS%20by%20Manoj%20Waikar%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Data-oriented-Development-AngularJS-Manoj-Waikar-ebook/dp/B00WX1CX6I?ie=UTF8&qid=1462824948&ref_=tmm_kin_swatch_0&sr=1-1)  
 [AngularJS in Action 1st Edition by Lukas Ruebbelke - 2015](%5BAngularJS%20in%20Action%201st%20Edition%20by%20Lukas%20Ruebbelke%20-%202015%5D.pdf) [**Buy**](http://www.amazon.com/AngularJS-Action-Lukas-Ruebbelke/dp/1617291331?ie=UTF8&keywords=AngularJS%20in%20Action&qid=1462825037&ref_=sr_1_cc_1&s=aps&sr=1-1-catcorr)  
-[Professional AngularJS Kindle Edition by Valeri Karpov - 2015]() [**Buy**](https://www.amazon.com/Professional-AngularJS-Valeri-Karpov-ebook/dp/B00WGANARC/ref=mt_kindle?_encoding=UTF8&me=)  
+[Professional AngularJS Kindle Edition by Valeri Karpov - 2015](%5BProfessional%20AngularJS%20Kindle%20Edition%20by%20Valeri%20Karpov%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Professional-AngularJS-Valeri-Karpov-ebook/dp/B00WGANARC/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Asynchronous JavaScript
 
