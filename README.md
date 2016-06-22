@@ -18,6 +18,7 @@ The MIT License (MIT)
 [AngularJS: Up and Running: Enhanced Productivity with Structured Web Apps by Shyam Seshadri, Brad Green - 2014](%5BAngularJS%20Up%20and%20Running%20Enhanced%20Productivity%20with%20Structured%20Web%20Apps%20by%20Shyam%20Seshadri%2C%20Brad%20Green%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/AngularJS-Running-Enhanced-Productivity-Structured-ebook/dp/B00NF07FSC?ie=UTF8&me=&ref_=mt_kindle)  
 [Data-oriented Development with AngularJS by Manoj Waikar - 2015](%5BData-oriented%20Development%20with%20AngularJS%20by%20Manoj%20Waikar%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Data-oriented-Development-AngularJS-Manoj-Waikar-ebook/dp/B00WX1CX6I?ie=UTF8&qid=1462824948&ref_=tmm_kin_swatch_0&sr=1-1)  
 [AngularJS in Action 1st Edition by Lukas Ruebbelke - 2015](%5BAngularJS%20in%20Action%201st%20Edition%20by%20Lukas%20Ruebbelke%20-%202015%5D.pdf) [**Buy**](http://www.amazon.com/AngularJS-Action-Lukas-Ruebbelke/dp/1617291331?ie=UTF8&keywords=AngularJS%20in%20Action&qid=1462825037&ref_=sr_1_cc_1&s=aps&sr=1-1-catcorr)  
+[Professional AngularJS Kindle Edition by Valeri Karpov - 2015]() [**Buy**](https://www.amazon.com/Professional-AngularJS-Valeri-Karpov-ebook/dp/B00WGANARC/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Asynchronous JavaScript
 
@@ -54,6 +55,13 @@ The MIT License (MIT)
 [Maintainable JavaScript Kindle Edition by Nicholas C. Zakas - 2012](%5BMaintainable%20JavaScript%20Kindle%20Edition%20by%20Nicholas%20C.%20Zakas%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas-ebook/dp/B0082CXEB0/ref=mt_kindle?_encoding=UTF8&me=)  
 [Object-oriented JavaScript - Second Edition - Learn a More Powerful Approach to Web Development Kindle Edition by Stoyan Stefanov - 2008](%5BObject-oriented%20JavaScript%20-%20Second%20Edition%20-%20Learn%20a%20More%20Powerful%20Approach%20to%20Web%20Development%20Kindle%20Edition%20by%20Stoyan%20Stefanov%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Object-oriented-JavaScript-Powerful-Approach-Development-ebook/dp/B00E7NCAYA/ref=mt_kindle?_encoding=UTF8&me=)  
 [Pragmatic Guide to JavaScript (Pragmatic Programmers) 1st Edition by Christophe Porteneuve - 2010](%5BPragmatic%20Guide%20to%20JavaScript%20(Pragmatic%20Programmers)%201st%20Edition%20by%20Christophe%20Porteneuve%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/Pragmatic-Guide-JavaScript-Programmers/dp/1934356670/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1466361231&sr=1-1-catcorr&keywords=Pragmatic+Guide+to+JavaScript)  
+[The Problem with Native JavaScript APIs Kindle Edition by Nicholas C. Zakas - 2012](%5BThe%20Problem%20with%20Native%20JavaScript%20APIs%20Kindle%20Edition%20by%20Nicholas%20C.%20Zakas%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Problem-Native-JavaScript-APIs-ebook/dp/B008MYLMHG/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466624026&sr=1-1&keywords=The+Problem+with+Native+JavaScript+APIs)  
+[Pro JavaScript Development: Coding, Capabilities, and Tooling Kindle Edition by Den Odell - 2014](%5BPro%20JavaScript%20Development%20Coding%2C%20Capabilities%2C%20and%20Tooling%20Kindle%20Edition%20by%20Den%20Odell%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Pro-JavaScript-Development-Capabilities-Tooling-ebook/dp/B00HT90AZK/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466624229&sr=1-1&keywords=Pro+JavaScript+Development)  
+[Professional JavaScript for Web Developers Kindle Edition by Nicholas C. Zakas - 2005](%5BProfessional%20JavaScript%20for%20Web%20Developers%20Kindle%20Edition%20by%20Nicholas%20C.%20Zakas%20-%202005%5D.pdf) [**Buy**](https://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas-ebook/dp/B006PW2URI/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## Google Maps
+
+[Google Maps JavaScript API Cookbook Kindle Edition by Alper Dincer - 2013](%5BGoogle%20Maps%20JavaScript%20API%20Cookbook%20Kindle%20Edition%20by%20Alper%20Dincer%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Google-Maps-JavaScript-API-Cookbook-ebook/dp/B00HJR6RD6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1466624404&sr=1-1)  
 
 ## Google Closure
 
@@ -86,6 +94,10 @@ The MIT License (MIT)
 [Mastering React Kindle Edition by Adam Horton, Ryan Vice - 2016](%5BMastering%20React%20Kindle%20Edition%20by%20Adam%20Horton%2C%20Ryan%20Vice%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/Mastering-React-Adam-Horton-ebook/dp/B017XSFKH4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1462781549&sr=1-1&keywords=Mastering+React)  
 [ReactJS by Example - Building Modern Web Applications with React Kindle Edition by Vipul A M, Prathamesh Sonpatki - 2016](%5BReactJS%20by%20Example%20-%20Building%20Modern%20Web%20Applications%20with%20React%20Kindle%20Edition%20by%20Vipul%20A%20M%2C%20Prathamesh%20Sonpatki%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/ReactJS-Example-Building-Modern-Applications-ebook/dp/B014POFNPI?ie=UTF8&qid=1462781637&ref_=tmm_kin_swatch_0&sr=1-1)  
 
+## React Native
+
+[Learning React Native: Building Native Mobile Apps with JavaScript Kindle Edition by Bonnie Eisenman - 2016](%5BLearning%20React%20Native%20Building%20Native%20Mobile%20Apps%20with%20JavaScript%20Kindle%20Edition%20by%20Bonnie%20Eisenman%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/Learning-React-Native-Building-JavaScript-ebook/dp/B018WODRKK/ref=mt_kindle?_encoding=UTF8&me=)  
+
 ## Security
 
 [Ajax Security by Billy Hoffman - 2008](%5BAjax%20Security%20by%20Billy%20Hoffman%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/Ajax-Security-Billy-Hoffman-ebook/dp/B004V9O64W/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1462777752&sr=1-1&keywords=Ajax+Security)  
@@ -93,6 +105,10 @@ The MIT License (MIT)
 [The Browser Hacker's Handbook Kindle Edition by Wade Alcorn - 2014](%5BThe%20Browser%20Hacker's%20Handbook%20Kindle%20Edition%20by%20Wade%20Alcorn%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Browser-Hackers-Handbook-Wade-Alcorn-ebook/dp/B00JV5JDM6/ref=mt_kindle?_encoding=UTF8&me=)  
 [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws Kindle Edition by Dafydd Stuttard - 2011](%5BThe%20Web%20Application%20Hacker's%20Handbook%20Finding%20and%20Exploiting%20Security%20Flaws%20Kindle%20Edition%20by%20Dafydd%20Stuttard%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S/ref=mt_kindle?_encoding=UTF8&me=)  
 [CORS in Action: Creating and consuming cross-origin APIs 1st Edition by Monsur Hossain - 2015](%5BCORS%20in%20Action%20Creating%20and%20consuming%20cross-origin%20APIs%201st%20Edition%20by%20Monsur%20Hossain%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/CORS-Action-Creating-consuming-cross-origin/dp/161729182X/ref=sr_1_1?ie=UTF8&qid=1466457499&sr=8-1&keywords=Cors+in+action)  
+
+## SPA
+
+[SPA Design and Architecture: Understanding Single Page Web Applications 1st Edition by Emmit Scott - 2016](%5BSPA%20Design%20and%20Architecture%20Understanding%20Single%20Page%20Web%20Applications%201st%20Edition%20by%20Emmit%20Scott%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/SPA-Design-Architecture-Understanding-Applications/dp/1617292435/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466624119&sr=8-1&keywords=javascript+SPA+Design+and+Architecture)  
 
 ## Testing
 
@@ -107,6 +123,10 @@ The MIT License (MIT)
 [HTML5 Hacks 1st Edition by Jesse Cravens, Jeff Burtoft - 2013](%5BHTML5%20Hacks%201st%20Edition%20by%20Jesse%20Cravens%2C%20Jeff%20Burtoft%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Hacks-Jesse-Cravens-ebook/dp/B00A7IHEX6?ie=UTF8&me=&ref_=mt_kindle)  
 [Web Standards: Mastering HTML5, CSS3, and XML by Leslie F. Sikos Ph.D. - 2014](%5BWeb%20Standards%20Mastering%20HTML5%2C%20CSS3%2C%20and%20XML%20by%20Leslie%20F.%20Sikos%20Ph.D.%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Web-Standards-Mastering-HTML5-CSS3-ebook/dp/B00OPTU7I2?ie=UTF8&me=&ref_=mt_kindle)  
 [Pro HTML5 Performance (Expert's Voice in Web Development) by Jay Bryant, Mike Jones - 2012](%5BHTML%5D%5BPro%20HTML5%20Performance%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Performance-Experts-Voice-Development-ebook/dp/B009TGE872?ie=UTF8&me=&ref_=mt_kindle)  
+
+## XMPP
+
+[Professional XMPP Programming with JavaScript and jQuery Kindle Edition by Jack Moffitt - 2010](%5BProfessional%20XMPP%20Programming%20with%20JavaScript%20and%20jQuery%20Kindle%20Edition%20by%20Jack%20Moffitt%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/Professional-XMPP-Programming-JavaScript-jQuery-ebook/dp/B003KN3M9A/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Other
 
