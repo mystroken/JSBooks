@@ -123,10 +123,20 @@ The MIT License (MIT)
 [HTML5 Hacks 1st Edition by Jesse Cravens, Jeff Burtoft - 2013](%5BHTML5%20Hacks%201st%20Edition%20by%20Jesse%20Cravens%2C%20Jeff%20Burtoft%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Hacks-Jesse-Cravens-ebook/dp/B00A7IHEX6?ie=UTF8&me=&ref_=mt_kindle)  
 [Web Standards: Mastering HTML5, CSS3, and XML by Leslie F. Sikos Ph.D. - 2014](%5BWeb%20Standards%20Mastering%20HTML5%2C%20CSS3%2C%20and%20XML%20by%20Leslie%20F.%20Sikos%20Ph.D.%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Web-Standards-Mastering-HTML5-CSS3-ebook/dp/B00OPTU7I2?ie=UTF8&me=&ref_=mt_kindle)  
 [Pro HTML5 Performance (Expert's Voice in Web Development) by Jay Bryant, Mike Jones - 2012](%5BHTML%5D%5BPro%20HTML5%20Performance%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Performance-Experts-Voice-Development-ebook/dp/B009TGE872?ie=UTF8&me=&ref_=mt_kindle)  
+[Training Guide Programming in HTML5 with JavaScript and CSS3 (MCSD): 70-480 (Microsoft Press Training Guide) Kindle Edition by Glenn Johnson - 2013](%5BTraining%20Guide%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%20(MCSD)%2070-480%20(Microsoft%20Press%20Training%20Guide)%20Kindle%20Edition%20by%20Glenn%20Johnson%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Training-Guide-Programming-HTML5-JavaScript-ebook/dp/B00JDMPJSE/ref=mt_kindle?_encoding=UTF8&me=)  
+[HTML5 in Action 1st Edition by Rob Crowther - 2014](%5BHTML5%20in%20Action%201st%20Edition%20by%20Rob%20Crowther%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Action-Rob-Crowther/dp/1617290491/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1466861867&sr=1-1-catcorr&keywords=html5+in+action)  
+[Core HTML5 Canvas: Graphics, Animation, and Game Development (Core Series) Kindle Edition by David Geary - 2012](%5BCore%20HTML5%20Canvas%20Graphics%2C%20Animation%2C%20and%20Game%20Development%20(Core%20Series)%20Kindle%20Edition%20by%20David%20Geary%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Core-HTML5-Canvas-Animation-Development-ebook/dp/B0085TJYKU/ref=mt_kindle?_encoding=UTF8&me=)  
+[HTML5 Canvas by Steve Fulton and Jeff Fulton - 2011](%5BHTML5%20Canvas%20by%20Steve%20Fulton%20and%20Jeff%20Fulton%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Canvas-Steve-Fulton-ebook/dp/B00CBM1WG6/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## XMPP
 
 [Professional XMPP Programming with JavaScript and jQuery Kindle Edition by Jack Moffitt - 2010](%5BProfessional%20XMPP%20Programming%20with%20JavaScript%20and%20jQuery%20Kindle%20Edition%20by%20Jack%20Moffitt%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/Professional-XMPP-Programming-JavaScript-jQuery-ebook/dp/B003KN3M9A/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## CSS
+
+[CSS3 Foundations (Treehouse Book Series) Kindle Edition by Ian Lunn - 2013](%5BCSS3%20Foundations%20(Treehouse%20Book%20Series)%20Kindle%20Edition%20by%20Ian%20Lunn%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/CSS3-Foundations-Treehouse-Book-Lunn-ebook/dp/B00AHJNTF2/ref=mt_kindle?_encoding=UTF8&me=)  
+[Sass and Compass in Action 1st Edition by Wynn Netherland - 2013](%5BSass%20and%20Compass%20in%20Action%201st%20Edition%20by%20Wynn%20Netherland%5D.pdf) [**Buy**](https://www.amazon.com/Sass-Compass-Action-Wynn-Netherland/dp/1617290149/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1466862140&sr=1-1-catcorr&keywords=Sass+and+Compass+in+Action)  
+[The CSS Anthology: 101 Essential Tips, Tricks & Hacks 3rd Edition by Rachel Andrew - 2009](%5BThe%20CSS%20Anthology%20101%20Essential%20Tips%2C%20Tricks%20%26%20Hacks%203rd%20Edition%20by%20Rachel%20Andrew%20-%202009%5D.pdf) [**Buy**](https://www.amazon.com/CSS-Anthology-Essential-Tricks-Hacks/dp/0980576806/ref=sr_1_1?s=books&ie=UTF8&qid=1466862209&sr=1-1&keywords=The+CSS+Anthology+101+Essential+Tips%2C+Tricks+%26+Hacks)  
 
 ## Other
 
