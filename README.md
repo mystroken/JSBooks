@@ -112,6 +112,10 @@ The MIT License (MIT)
 
 [SPA Design and Architecture: Understanding Single Page Web Applications 1st Edition by Emmit Scott - 2016](%5BSPA%20Design%20and%20Architecture%20Understanding%20Single%20Page%20Web%20Applications%201st%20Edition%20by%20Emmit%20Scott%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/SPA-Design-Architecture-Understanding-Applications/dp/1617292435/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466624119&sr=8-1&keywords=javascript+SPA+Design+and+Architecture)  
 
+## Three.js
+
+[Learning Three.js: The JavaScript 3D Library for WebGL Kindle Edition by Jos Dirksen - 2013](%5BLearning%20Three.js%20The%20JavaScript%203D%20Library%20for%20WebGL%20Kindle%20Edition%20by%20Jos%20Dirksen%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Learning-Three-js-JavaScript-Library-WebGL-ebook/dp/B00FYS7OSO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1469274428&sr=1-2-fkmr0#nav-subnav)  
+
 ## Testing
 
 [Jasmine Cookbook Kindle Edition by Munish Sethi - 2014](%5BJasmine%20Cookbook%20Kindle%20Edition%20by%20Munish%20Sethi%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Jasmine-Cookbook-Munish-Sethi-ebook/dp/B00WQWY8SA?ie=UTF8&qid=1463342954&ref_=tmm_kin_swatch_0&sr=1-1)  
@@ -132,6 +136,11 @@ The MIT License (MIT)
 [HTML5 Games Development by Example: Beginner's Guide Kindle Edition by Makzan - 2011](%5BHTML5%20Games%20Development%20by%20Example%20Beginners%20Guide%20Kindle%20Edition%20by%20Makzan%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Games-Development-Example-Beginners-ebook/dp/B005KRUHXI/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 [Pro HTML5 and CSS3 Design Patterns (Expert's Voice in Web Development) 2011th Edition by Michael Bowers - 2011](%5BPro%20HTML5%20and%20CSS3%20Design%20Patterns%20(Experts%20Voice%20in%20Web%20Development)%202011th%20Edition%20by%20Michael%20Bowers%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Design-Patterns-Experts-Development/dp/1430237805/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1469266427&sr=8-1&keywords=Pro+HTML5+and+CSS3+Design+Patterns)  
 [Responsive Web Design with HTML5 and CSS3 Kindle Edition by Ben Frain - 2012](%5BResponsive%20Web%20Design%20with%20HTML5%20and%20CSS3%20Kindle%20Edition%20by%20Ben%20Frain%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Responsive-Web-Design-HTML5-CSS3-ebook/dp/B007SVJA3M/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1469266566&sr=8-2#nav-subnav)  
+[HTML5 Cookbook (Cookbooks (O'Reilly)) Kindle Edition by Christopher Schmitt - 2012](%5BHTML5%20Cookbook%20(Cookbooks%20(O'Reilly))%20Kindle%20Edition%20by%20Christopher%20Schmitt%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Cookbook-Cookbooks-OReilly-Christopher-Schmitt-ebook/dp/B0064NUGLK/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[HTML5 Media Kindle Edition by Shelley Powers - 2011](%5BHTML5%20Media%20Kindle%20Edition%20by%20Shelley%20Powers%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Media-Shelley-Powers-ebook/dp/B005KOJ3JA/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[Programming HTML5 Applications: Building Powerful Cross-Platform Environments in JavaScript Kindle Edition by Zachary Kessin - 2012](%5BProgramming%20HTML5%20Applications%20Building%20Powerful%20Cross-Platform%20Environments%20in%20JavaScript%20Kindle%20Edition%20by%20Zachary%20Kessin%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Programming-HTML5-Applications-Cross-Platform-Environments-ebook/dp/B00667J2GY/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[The Definitive Guide to HTML5 Video (Expert's Voice in Web Development) 2011th Edition by Silvia Pfeiffer - 2010](%5BThe%20Definitive%20Guide%20to%20HTML5%20Video%20(Expert's%20Voice%20in%20Web%20Development)%202011th%20Edition%20by%20Silvia%20Pfeiffer%20-%202010%5D.pdf) [**Buy**](https://www.amazon.com/Definitive-Guide-HTML5-Experts-Development/dp/1430230908/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1469273980&sr=8-1&keywords=The+Definitive+Guide+to+HTML5+Video)  
+[Building Hypermedia APIs with HTML5 and Node Kindle Edition by Mike Amundsen - 2012](%5BBuilding%20Hypermedia%20APIs%20with%20HTML5%20and%20Node%20Kindle%20Edition%20by%20Mike%20Amundsen%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Building-Hypermedia-APIs-HTML5-Node-ebook/dp/B006FZ3T4I/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 
 ## HTML
 
