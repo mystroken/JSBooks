@@ -58,6 +58,7 @@ The MIT License (MIT)
 [The Problem with Native JavaScript APIs Kindle Edition by Nicholas C. Zakas - 2012](%5BThe%20Problem%20with%20Native%20JavaScript%20APIs%20Kindle%20Edition%20by%20Nicholas%20C.%20Zakas%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Problem-Native-JavaScript-APIs-ebook/dp/B008MYLMHG/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466624026&sr=1-1&keywords=The+Problem+with+Native+JavaScript+APIs)  
 [Pro JavaScript Development: Coding, Capabilities, and Tooling Kindle Edition by Den Odell - 2014](%5BPro%20JavaScript%20Development%20Coding%2C%20Capabilities%2C%20and%20Tooling%20Kindle%20Edition%20by%20Den%20Odell%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Pro-JavaScript-Development-Capabilities-Tooling-ebook/dp/B00HT90AZK/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466624229&sr=1-1&keywords=Pro+JavaScript+Development)  
 [Professional JavaScript for Web Developers Kindle Edition by Nicholas C. Zakas - 2005](%5BProfessional%20JavaScript%20for%20Web%20Developers%20Kindle%20Edition%20by%20Nicholas%20C.%20Zakas%20-%202005%5D.pdf) [**Buy**](https://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas-ebook/dp/B006PW2URI/ref=mt_kindle?_encoding=UTF8&me=)  
+[Reliable JavaScript: How to Code Safely in the World's Most Dangerous Language Kindle Edition by Lawrence Spencer - 2015](%5BReliable%20JavaScript%20How%20to%20Code%20Safely%20in%20the%20World's%20Most%20Dangerous%20Language%20Kindle%20Edition%20by%20Lawrence%20Spencer%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Reliable-JavaScript-Safely-Dangerous-Language-ebook/dp/B010Q3KSF2/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 
 ## Google Maps
 
@@ -93,6 +94,7 @@ The MIT License (MIT)
 
 [Mastering React Kindle Edition by Adam Horton, Ryan Vice - 2016](%5BMastering%20React%20Kindle%20Edition%20by%20Adam%20Horton%2C%20Ryan%20Vice%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/Mastering-React-Adam-Horton-ebook/dp/B017XSFKH4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1462781549&sr=1-1&keywords=Mastering+React)  
 [ReactJS by Example - Building Modern Web Applications with React Kindle Edition by Vipul A M, Prathamesh Sonpatki - 2016](%5BReactJS%20by%20Example%20-%20Building%20Modern%20Web%20Applications%20with%20React%20Kindle%20Edition%20by%20Vipul%20A%20M%2C%20Prathamesh%20Sonpatki%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/ReactJS-Example-Building-Modern-Applications-ebook/dp/B014POFNPI?ie=UTF8&qid=1462781637&ref_=tmm_kin_swatch_0&sr=1-1)  
+[Pro React Kindle Edition by Cássio de Sousa Antonio - 2015](%5BPro%20React%20Kindle%20Edition%20by%20Cássio%20de%20Sousa%20Antonio%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Pro-React-C-ssio-Sousa-Antonio-ebook/dp/B01BHTK7ZA/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 
 ## React Native
 
@@ -127,6 +129,13 @@ The MIT License (MIT)
 [HTML5 in Action 1st Edition by Rob Crowther - 2014](%5BHTML5%20in%20Action%201st%20Edition%20by%20Rob%20Crowther%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Action-Rob-Crowther/dp/1617290491/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1466861867&sr=1-1-catcorr&keywords=html5+in+action)  
 [Core HTML5 Canvas: Graphics, Animation, and Game Development (Core Series) Kindle Edition by David Geary - 2012](%5BCore%20HTML5%20Canvas%20Graphics%2C%20Animation%2C%20and%20Game%20Development%20(Core%20Series)%20Kindle%20Edition%20by%20David%20Geary%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Core-HTML5-Canvas-Animation-Development-ebook/dp/B0085TJYKU/ref=mt_kindle?_encoding=UTF8&me=)  
 [HTML5 Canvas by Steve Fulton and Jeff Fulton - 2011](%5BHTML5%20Canvas%20by%20Steve%20Fulton%20and%20Jeff%20Fulton%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Canvas-Steve-Fulton-ebook/dp/B00CBM1WG6/ref=mt_kindle?_encoding=UTF8&me=)  
+[HTML5 Games Development by Example: Beginner's Guide Kindle Edition by Makzan - 2011](%5BHTML5%20Games%20Development%20by%20Example%20Beginners%20Guide%20Kindle%20Edition%20by%20Makzan%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Games-Development-Example-Beginners-ebook/dp/B005KRUHXI/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[Pro HTML5 and CSS3 Design Patterns (Expert's Voice in Web Development) 2011th Edition by Michael Bowers - 2011](%5BPro%20HTML5%20and%20CSS3%20Design%20Patterns%20(Experts%20Voice%20in%20Web%20Development)%202011th%20Edition%20by%20Michael%20Bowers%20-%202011%5D.pdf) [**Buy**](https://www.amazon.com/HTML5-Design-Patterns-Experts-Development/dp/1430237805/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1469266427&sr=8-1&keywords=Pro+HTML5+and+CSS3+Design+Patterns)  
+[Responsive Web Design with HTML5 and CSS3 Kindle Edition by Ben Frain - 2012](%5BResponsive%20Web%20Design%20with%20HTML5%20and%20CSS3%20Kindle%20Edition%20by%20Ben%20Frain%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Responsive-Web-Design-HTML5-CSS3-ebook/dp/B007SVJA3M/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1469266566&sr=8-2#nav-subnav)  
+
+## HTML
+
+[Web Development Recipes Kindle Edition by Brian P. Hogan - 2012](%5BWeb%20Development%20Recipes%20Kindle%20Edition%20by%20Brian%20P.%20Hogan%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Web-Development-Recipes-Brian-Hogan-ebook/dp/B014GDFNBW/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 
 ## XMPP
 
@@ -134,6 +143,7 @@ The MIT License (MIT)
 
 ## CSS
 
+[Pro CSS3 Layout Techniques Kindle Edition by Sam Hampton-Smith - 2016](%5BPro%20CSS3%20Layout%20Techniques%20Kindle%20Edition%20by%20Sam%20Hampton-Smith%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/Pro-CSS3-Layout-Techniques-Hampton-Smith-ebook/dp/B00MBL1CO4/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 [CSS3 Foundations (Treehouse Book Series) Kindle Edition by Ian Lunn - 2013](%5BCSS3%20Foundations%20(Treehouse%20Book%20Series)%20Kindle%20Edition%20by%20Ian%20Lunn%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/CSS3-Foundations-Treehouse-Book-Lunn-ebook/dp/B00AHJNTF2/ref=mt_kindle?_encoding=UTF8&me=)  
 [Sass and Compass in Action 1st Edition by Wynn Netherland - 2013](%5BSass%20and%20Compass%20in%20Action%201st%20Edition%20by%20Wynn%20Netherland%5D.pdf) [**Buy**](https://www.amazon.com/Sass-Compass-Action-Wynn-Netherland/dp/1617290149/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1466862140&sr=1-1-catcorr&keywords=Sass+and+Compass+in+Action)  
 [The CSS Anthology: 101 Essential Tips, Tricks & Hacks 3rd Edition by Rachel Andrew - 2009](%5BThe%20CSS%20Anthology%20101%20Essential%20Tips%2C%20Tricks%20%26%20Hacks%203rd%20Edition%20by%20Rachel%20Andrew%20-%202009%5D.pdf) [**Buy**](https://www.amazon.com/CSS-Anthology-Essential-Tricks-Hacks/dp/0980576806/ref=sr_1_1?s=books&ie=UTF8&qid=1466862209&sr=1-1&keywords=The+CSS+Anthology+101+Essential+Tips%2C+Tricks+%26+Hacks)  
