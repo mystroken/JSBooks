@@ -160,3 +160,16 @@ The MIT License (MIT)
 ## Other
 
 [The Parallel Event Loop Model and Runtime be Daniele Bonetta - 2014](%5BThe%20Parallel%20Event%20Loop%20Model%20and%20Runtime%20be%20Daniele%20Bonetta%20-%202014%5D.pdf)  
+
+## Online resources, the best collection
+
+[**000. Exploring ES6 by Axel Rauschmayer - 2016, exploringjs.com**](http://exploringjs.com/es6)  
+[**001. ES6 In Depth Articles - 2015-pt, hacks.mozilla.org**](https://hacks.mozilla.org/category/es6-in-depth)  
+[**002. ECMA-262 by Dmitry Soshnikov, dmitrysoshnikov.com**](http://dmitrysoshnikov.com)  
+[**003. Perfection Kills by kangax, perfectionkills.com**](http://perfectionkills.com)  
+[**004. A set of React examples, react.rocks**](https://react.rocks)  
+[**005. Web Technology For Developers, developer.mozilla.org**](https://developer.mozilla.org/en-US/docs/Web)  
+[**006. www.smashingmagazine.com**](https://www.smashingmagazine.com)  
+[Writing Fast, Memory-Efficient JavaScript](http://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript)  
+[**007. The World Wide Web Consortium (W3C), www.w3.org**](http://www.w3.org)  
+[**008. TypeScript, www.typescriptlang.org](http://www.typescriptlang.org)  
