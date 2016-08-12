@@ -163,13 +163,14 @@ The MIT License (MIT)
 
 ## Online resources, the best collection
 
-[**000. Exploring ES6 by Axel Rauschmayer - 2016, exploringjs.com**](http://exploringjs.com/es6)  
-[**001. ES6 In Depth Articles - 2015-pt, hacks.mozilla.org**](https://hacks.mozilla.org/category/es6-in-depth)  
+[**000. Exploring ES6 by Axel Rauschmayer, exploringjs.com**](http://exploringjs.com/es6)  
+[**001. ES6 In Depth Articles, hacks.mozilla.org**](https://hacks.mozilla.org/category/es6-in-depth)  
 [**002. ECMA-262 by Dmitry Soshnikov, dmitrysoshnikov.com**](http://dmitrysoshnikov.com)  
 [**003. Perfection Kills by kangax, perfectionkills.com**](http://perfectionkills.com)  
 [**004. A set of React examples, react.rocks**](https://react.rocks)  
 [**005. Web Technology For Developers, developer.mozilla.org**](https://developer.mozilla.org/en-US/docs/Web)  
-[**006. www.smashingmagazine.com**](https://www.smashingmagazine.com)  
-[Writing Fast, Memory-Efficient JavaScript](http://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript)  
+[**006. Smashing Magazine, www.smashingmagazine.com**](https://www.smashingmagazine.com)  
+[Writing Fast, Memory-Efficient JavaScript By Addy Osmani](http://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript)  
+[How To Use Arguments And Parameters In ECMAScript 6 By Faraz Kelhini](https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6)  
 [**007. The World Wide Web Consortium (W3C), www.w3.org**](http://www.w3.org)  
 [**008. TypeScript, www.typescriptlang.org**](http://www.typescriptlang.org)  
