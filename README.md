@@ -19,6 +19,7 @@ The MIT License (MIT)
 [Data-oriented Development with AngularJS by Manoj Waikar - 2015](%5BData-oriented%20Development%20with%20AngularJS%20by%20Manoj%20Waikar%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Data-oriented-Development-AngularJS-Manoj-Waikar-ebook/dp/B00WX1CX6I?ie=UTF8&qid=1462824948&ref_=tmm_kin_swatch_0&sr=1-1)  
 [AngularJS in Action 1st Edition by Lukas Ruebbelke - 2015](%5BAngularJS%20in%20Action%201st%20Edition%20by%20Lukas%20Ruebbelke%20-%202015%5D.pdf) [**Buy**](http://www.amazon.com/AngularJS-Action-Lukas-Ruebbelke/dp/1617291331?ie=UTF8&keywords=AngularJS%20in%20Action&qid=1462825037&ref_=sr_1_cc_1&s=aps&sr=1-1-catcorr)  
 [Professional AngularJS Kindle Edition by Valeri Karpov - 2015](%5BProfessional%20AngularJS%20Kindle%20Edition%20by%20Valeri%20Karpov%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Professional-AngularJS-Valeri-Karpov-ebook/dp/B00WGANARC/ref=mt_kindle?_encoding=UTF8&me=)  
+[Dependency Injection with AngularJS Kindle Edition by Alex Knol - 2013](%5BDependency%20Injection%20with%20AngularJS%20Kindle%20Edition%20by%20Alex%20Knol%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Dependency-Injection-AngularJS-Alex-Knol-ebook/dp/B00HEGSL0Y/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Asynchronous JavaScript
 
@@ -111,6 +112,10 @@ The MIT License (MIT)
 ## SPA
 
 [SPA Design and Architecture: Understanding Single Page Web Applications 1st Edition by Emmit Scott - 2016](%5BSPA%20Design%20and%20Architecture%20Understanding%20Single%20Page%20Web%20Applications%201st%20Edition%20by%20Emmit%20Scott%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/SPA-Design-Architecture-Understanding-Applications/dp/1617292435/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466624119&sr=8-1&keywords=javascript+SPA+Design+and+Architecture)  
+
+## SVG
+
+[SVG Essentials Kindle Edition by J. David Eisenberg - 2015](%5BSVG%20Essentials%20Kindle%20Edition%20by%20J.%20David%20Eisenberg%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/SVG-Essentials-J-David-Eisenberg-ebook/dp/B00OU5B2W6/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Three.js
 
