@@ -117,6 +117,12 @@ The MIT License (MIT)
 
 [SVG Essentials Kindle Edition by J. David Eisenberg - 2015](%5BSVG%20Essentials%20Kindle%20Edition%20by%20J.%20David%20Eisenberg%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/SVG-Essentials-J-David-Eisenberg-ebook/dp/B00OU5B2W6/ref=mt_kindle?_encoding=UTF8&me=)  
 
+## TypeScript
+
+[TypeScript Revealed Kindle Edition by Dan Maharry - 2012](%5BTypeScript%20Revealed%20Kindle%20Edition%20by%20Dan%20Maharry%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/TypeScript-Revealed-Dan-Maharry-ebook/dp/B00ACC6C26/ref=mt_kindle?_encoding=UTF8&me=)  
+[Pro TypeScript: Application-Scale JavaScript Development Kindle Edition by Steve Fenton - 2014](%5BPro%20TypeScript%20Application-Scale%20JavaScript%20Development%20Kindle%20Edition%20by%20Steve%20Fenton%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Pro-TypeScript-Application-Scale-JavaScript-Development-ebook/dp/B00LPDV9W4/ref=mt_kindle?_encoding=UTF8&me=)  
+[Mastering TypeScript Kindle Edition by Nathan Rozentals - 2015](%5BMastering%20TypeScript%20Kindle%20Edition%20by%20Nathan%20Rozentals%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Mastering-TypeScript-Nathan-Rozentals-ebook/dp/B00WMLHQFC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)  
+
 ## Three.js
 
 [Learning Three.js: The JavaScript 3D Library for WebGL Kindle Edition by Jos Dirksen - 2013](%5BLearning%20Three.js%20The%20JavaScript%203D%20Library%20for%20WebGL%20Kindle%20Edition%20by%20Jos%20Dirksen%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Learning-Three-js-JavaScript-Library-WebGL-ebook/dp/B00FYS7OSO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1469274428&sr=1-2-fkmr0#nav-subnav)  
@@ -179,3 +185,6 @@ The MIT License (MIT)
 [How To Use Arguments And Parameters In ECMAScript 6 By Faraz Kelhini](https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6)  
 [**007. The World Wide Web Consortium (W3C), www.w3.org**](http://www.w3.org)  
 [**008. TypeScript, www.typescriptlang.org**](http://www.typescriptlang.org)  
+[**009. TypeScript-Handbook, Microsoft**](https://github.com/Microsoft/TypeScript-Handbook)  
+[**010. TypeScript language specification, Microsoft**](https://github.com/Microsoft/TypeScript/tree/master/doc)  
+[**011. You Don't Know JS (book series)**](https://github.com/getify/You-Dont-Know-JS)  
