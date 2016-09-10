@@ -81,6 +81,15 @@ The MIT License (MIT)
 
 [High Performance Browser Networking: What every web developer should know about networking and web performance Kindle Edition by Ilya Grigorik - 2013](%5BHigh%20Performance%20Browser%20Networking%20What%20every%20web%20developer%20should%20know%20about%20networking%20and%20web%20performance%20Kindle%20Edition%20by%20Ilya%20Grigorik%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/High-Performance-Browser-Networking-performance-ebook/dp/B00FM0OC4S/ref=mt_kindle?_encoding=UTF8&me=)  
 
+## NodeJS
+
+[Node.js Design Patterns Kindle Edition by Mario Casciaro - 2014](%5BNode.js%20Design%20Patterns%20Kindle%20Edition%20by%20Mario%20Casciaro%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro-ebook/dp/B00RP13D24/ref=mt_kindle?_encoding=UTF8&me=)  
+[Pro Express.js: Master Express.js: The Node.js Framework For Your Web Development Kindle Edition by Azat Mardan - 2014](%5BPro%20Express.js%20Master%20Express.js%20The%20Node.js%20Framework%20For%20Your%20Web%20Development%20Kindle%20Edition%20by%20Azat%20Mardan%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Pro-Express-js-Node-js-Framework-Development-ebook/dp/B00MBL239W/ref=mt_kindle?_encoding=UTF8&me=)  
+[Smashing Node.js: JavaScript Everywhere 2nd Edition by Guillermo Rauch - 2012](%5BSmashing%20Node.js%20JavaScript%20Everywhere%202nd%20Edition%20by%20Guillermo%20Rauch%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/dp/1119962595/ref=olp_product_details?_encoding=UTF8&me=)  
+[Professional Node.js Building Javascript Based Scalable Software Kindle Edition by Pedro Teixeira - 2013](%5BProfessional%20Node.js%20Building%20Javascript%20Based%20Scalable%20Software%20Kindle%20Edition%20by%20Pedro%20Teixeira%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/ref=mt_kindle?_encoding=UTF8&me=)  
+[Node: Up and Running: Scalable Server-Side Code with JavaScript Kindle Edition by Tom Hughes-Croucher - 2012](%5BNode%20Up%20and%20Running%20Scalable%20Server-Side%20Code%20with%20JavaScript%20Kindle%20Edition%20by%20Tom%20Hughes-Croucher%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/Node-Running-Scalable-Server-Side-JavaScript-ebook/dp/B007XF8PJS/ref=mt_kindle?_encoding=UTF8&me=)  
+[Node.js the Right Way: Practical, Server-Side JavaScript That Scales Kindle Edition by Jim Wilson - 2013](%5BNode.js%20the%20Right%20Way%20Practical%2C%20Server-Side%20JavaScript%20That%20Scales%20Kindle%20Edition%20by%20Jim%20Wilson%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript-ebook/dp/B00HSO6YD8/ref=mt_kindle?_encoding=UTF8&me=)  
+
 ## Performance
 
 [Mastering JavaScript High Performance by Chad R. Adams - 2015](%5BMastering%20JavaScript%20High%20Performance%20by%20Chad%20R.%20Adams%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Mastering-JavaScript-High-Performance-Adams-ebook/dp/B00VGE6AAI?ie=UTF8&qid=1462779439&ref_=tmm_kin_swatch_0&sr=1-1)  
