@@ -197,6 +197,8 @@ The MIT License (MIT)
 [**006. Web Application Security II, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20II%5D.pdf)  
 [**007. HTML5 Top 10 Threats - Stealth Attacks and Silent Exploits By Shreeraj Shah - 2012**](%5BBLUEINFY%20SOLUTIONS%5D%5BHTML5%20Top%2010%20Threats%20-%20Stealth%20Attacks%20and%20Silent%20Exploits%20By%20Shreeraj%20Shah%20-%202012%5D.pdf)  
 [**008. Security pitfalls of client-side cross-domain HTTP requests by Martin Johns - 2011**](%5BSAP%20RESEARCH%5D%5BSecurity%20pitfalls%20of%20client-side%20cross-domain%20HTTP%20requests%20by%20Martin%20Johns%20-%202011%5D.pdf)  
+[**009. HTML5 & JavaScript Security by Marcus Hodges**](%5BSECURITY%20INNOVATION%5D%5BHTML5%20%26%20JavaScript%20Security%20by%20Marcus%20Hodges%5D.pdf)  
+[**010. Hacking HTML5 by Krzysztof Kotowicz - 2013**](%5BSECURING-CURE53%5D%5BHacking%20HTML5%20by%20Krzysztof%20Kotowicz%20-%202013%5D.pdf)  
 
 ## Online resources, the best collection
 
