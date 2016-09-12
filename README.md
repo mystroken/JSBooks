@@ -192,7 +192,7 @@ The MIT License (MIT)
 [**002. Optimizing Web Applications, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BOptimizing%20Web%20Applications%5D.pdf)  
 [**003. Transport Layer and Browser Security, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BTransport%20Layer%20and%20Browser%20Security%5D.pdf)  
 [**004. Vulnerability Scanning of WebApps & Course Reviews, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BVulnerability%20Scanning%20of%20WebApps%20%26%20Course%20Reviews%5D.pdf)  
-[**005. Web Application Security I, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20II%5D.pdf)  
+[**005. Web Application Security I, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20I%5D.pdf)  
 [**006. Web Application Security II, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20II%5D.pdf)  
 
 ## Online resources, the best collection
