@@ -184,6 +184,7 @@ The MIT License (MIT)
 ## Other
 
 [The Parallel Event Loop Model and Runtime be Daniele Bonetta - 2014](%5BThe%20Parallel%20Event%20Loop%20Model%20and%20Runtime%20be%20Daniele%20Bonetta%20-%202014%5D.pdf)  
+[Origin Policy Enforcement in Modern Browsers by Frederik Braun - 2012](%5BOrigin%20Policy%20Enforcement%20in%20Modern%20Browsers%20by%20Frederik%20Braun%20-%202012%5D.pdf)  
 
 ## Lectures, the best collection
 
@@ -194,6 +195,8 @@ The MIT License (MIT)
 [**004. Vulnerability Scanning of WebApps & Course Reviews, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BVulnerability%20Scanning%20of%20WebApps%20%26%20Course%20Reviews%5D.pdf)  
 [**005. Web Application Security I, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20I%5D.pdf)  
 [**006. Web Application Security II, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20II%5D.pdf)  
+[**007. HTML5 Top 10 Threats - Stealth Attacks and Silent Exploits By Shreeraj Shah - 2012**](%5BBLUEINFY%20SOLUTIONS%5D%5BHTML5%20Top%2010%20Threats%20-%20Stealth%20Attacks%20and%20Silent%20Exploits%20By%20Shreeraj%20Shah%20-%202012%5D.pdf)  
+[**008. Security pitfalls of client-side cross-domain HTTP requests by Martin Johns - 2011**](%5BSAP%20RESEARCH%5D%5BSecurity%20pitfalls%20of%20client-side%20cross-domain%20HTTP%20requests%20by%20Martin%20Johns%20-%202011%5D.pdf)  
 
 ## Online resources, the best collection
 
