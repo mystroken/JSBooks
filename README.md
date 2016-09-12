@@ -185,6 +185,16 @@ The MIT License (MIT)
 
 [The Parallel Event Loop Model and Runtime be Daniele Bonetta - 2014](%5BThe%20Parallel%20Event%20Loop%20Model%20and%20Runtime%20be%20Daniele%20Bonetta%20-%202014%5D.pdf)  
 
+## Lectures, the best collection
+
+[**000. Authentication and Authorization, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BAuthentication%20and%20Authorization%5D.pdf)  
+[**001. Fast and Scalable Web & Database Servers, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BFast%20and%20Scalable%20Web%20%26%20Database%20Servers%5D.pdf)  
+[**002. Optimizing Web Applications, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BOptimizing%20Web%20Applications%5D.pdf)  
+[**003. Transport Layer and Browser Security, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BTransport%20Layer%20and%20Browser%20Security%5D.pdf)  
+[**004. Vulnerability Scanning of WebApps & Course Reviews, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BVulnerability%20Scanning%20of%20WebApps%20%26%20Course%20Reviews%5D.pdf)  
+[**005. Web Application Security I, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20II%5D.pdf)  
+[**006. Web Application Security II, Dr. Adonis Fung, IERG4210 Web Programming and Security - 2015**](%5BIERG4210%5D%5BWeb%20Application%20Security%20II%5D.pdf)  
+
 ## Online resources, the best collection
 
 [**000. Exploring ES6 by Axel Rauschmayer, exploringjs.com**](http://exploringjs.com/es6)  
