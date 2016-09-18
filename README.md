@@ -185,6 +185,7 @@ The MIT License (MIT)
 
 [The Parallel Event Loop Model and Runtime be Daniele Bonetta - 2014](%5BThe%20Parallel%20Event%20Loop%20Model%20and%20Runtime%20be%20Daniele%20Bonetta%20-%202014%5D.pdf)  
 [Origin Policy Enforcement in Modern Browsers by Frederik Braun - 2012](%5BOrigin%20Policy%20Enforcement%20in%20Modern%20Browsers%20by%20Frederik%20Braun%20-%202012%5D.pdf)  
+[An Investigation into the Applicability of Node.js as a Platform forWeb Services by Erik Eloff & Daniel Torstensson - 2012](%5BAn%20Investigation%20into%20the%20Applicability%20of%20Node.js%20as%20a%20Platform%20forWeb%20Services%20by%20Erik%20Eloff%20%26%20Daniel%20Torstensson%20-%202012%5D.pdf)  
 
 ## Lectures, the best collection
 
@@ -199,6 +200,8 @@ The MIT License (MIT)
 [**008. Security pitfalls of client-side cross-domain HTTP requests by Martin Johns - 2011**](%5BSAP%20RESEARCH%5D%5BSecurity%20pitfalls%20of%20client-side%20cross-domain%20HTTP%20requests%20by%20Martin%20Johns%20-%202011%5D.pdf)  
 [**009. HTML5 & JavaScript Security by Marcus Hodges**](%5BSECURITY%20INNOVATION%5D%5BHTML5%20%26%20JavaScript%20Security%20by%20Marcus%20Hodges%5D.pdf)  
 [**010. Hacking HTML5 by Krzysztof Kotowicz - 2013**](%5BSECURING-CURE53%5D%5BHacking%20HTML5%20by%20Krzysztof%20Kotowicz%20-%202013%5D.pdf)  
+[**011. Node.js How JavaScript is Changing Server Programming by Tom Hughes-Croucher](%5BNode.js%20How%20JavaScript%20is%20Changing%20Server%20Programming%20by%20Tom%20Hughes-Croucher%5D.pdf)  
+[**012. Server-Side JavaScript auf der JVM by Peter Doschkinow](%5BORACLE%5D%5BServer-Side%20JavaScript%20auf%20der%20JVM%20by%20Peter%20Doschkinow%5D.pdf)  
 
 ## Online resources, the best collection
 
