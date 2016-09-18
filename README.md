@@ -186,6 +186,7 @@ The MIT License (MIT)
 [The Parallel Event Loop Model and Runtime be Daniele Bonetta - 2014](%5BThe%20Parallel%20Event%20Loop%20Model%20and%20Runtime%20be%20Daniele%20Bonetta%20-%202014%5D.pdf)  
 [Origin Policy Enforcement in Modern Browsers by Frederik Braun - 2012](%5BOrigin%20Policy%20Enforcement%20in%20Modern%20Browsers%20by%20Frederik%20Braun%20-%202012%5D.pdf)  
 [An Investigation into the Applicability of Node.js as a Platform forWeb Services by Erik Eloff & Daniel Torstensson - 2012](%5BAn%20Investigation%20into%20the%20Applicability%20of%20Node.js%20as%20a%20Platform%20forWeb%20Services%20by%20Erik%20Eloff%20%26%20Daniel%20Torstensson%20-%202012%5D.pdf)  
+[Functional Reactive Programming on the Web by Christian Strand Young - 2015](%5BFunctional%20Reactive%20Programming%20on%20the%20Web%20by%20Christian%20Strand%20Young%20-%202015%5D.pdf)  
 
 ## Lectures, the best collection
 
