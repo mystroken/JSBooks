@@ -227,3 +227,9 @@ The MIT License (MIT)
 [**014. V8 bailout reasons by Victor Felder**](https://github.com/vhf/v8-bailout-reasons)  
 [**015. HTML5 Rocks by Google**](http://www.html5rocks.com/en)  
 [Performance Tips for JavaScript in V8 by Chris Wilson](http://www.html5rocks.com/en/tutorials/speed/v8)  
+[A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner)  
+[**016. NCZOnline by Nicholas C. Zakas**](https://www.nczonline.net)  
+
+## Some online resources for preparation to interview, you should read
+
+[8 JavaScript Interview Questions You Need to Know](http://insights.dice.com/2012/09/26/javascript-interview-questions)  
