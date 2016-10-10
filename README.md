@@ -229,6 +229,8 @@ The MIT License (MIT)
 [Performance Tips for JavaScript in V8 by Chris Wilson](http://www.html5rocks.com/en/tutorials/speed/v8)  
 [A Beginner's Guide to Using the Application Cache](https://www.html5rocks.com/en/tutorials/appcache/beginner)  
 [**016. NCZOnline by Nicholas C. Zakas**](https://www.nczonline.net)  
+[**017. International Journal of Computer Applications, www.ijcaonline.org**](http://www.ijcaonline.org)  
+[Responsive Web Design Techniques](http://www.ijcaonline.org/archives/volume150/number2/26066-26066-2016911463)  
 
 ## Some online resources for preparation to interview, you should read
 
