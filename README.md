@@ -231,6 +231,9 @@ The MIT License (MIT)
 [**016. NCZOnline by Nicholas C. Zakas**](https://www.nczonline.net)  
 [**017. International Journal of Computer Applications, www.ijcaonline.org**](http://www.ijcaonline.org)  
 [Responsive Web Design Techniques](http://www.ijcaonline.org/archives/volume150/number2/26066-26066-2016911463)  
+[**018. Google Developers, developers.google.com**](https://developers.google.com)  
+[Optimizing JavaScript code](https://developers.google.com/speed/articles/optimizing-javascript)  
+[Minimizing browser reflow](https://developers.google.com/speed/articles/reflow)  
 
 ## Some online resources for preparation to interview, you should read
 
