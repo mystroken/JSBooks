@@ -234,6 +234,10 @@ The MIT License (MIT)
 [**018. Google Developers, developers.google.com**](https://developers.google.com)  
 [Optimizing JavaScript code](https://developers.google.com/speed/articles/optimizing-javascript)  
 [Minimizing browser reflow](https://developers.google.com/speed/articles/reflow)  
+[**019. about:performance Application Performance, Scalability, and Architecture, apmblog.dynatrace.com**](http://apmblog.dynatrace.com)  
+[Understanding Internet Explorer Rendering Behaviour](http://apmblog.dynatrace.com/2009/12/12/understanding-internet-explorer-rendering-behaviour)  
+[**020. Envato, Featured Tutorials, Courses and Ebooks, code.tutsplus.com**](https://code.tutsplus.com)  
+[The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048?ec_unit=translation-info-language)  
 
 ## Some online resources for preparation to interview, you should read
 
