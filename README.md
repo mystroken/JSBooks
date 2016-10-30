@@ -132,6 +132,10 @@ The MIT License (MIT)
 
 [SVG Essentials Kindle Edition by J. David Eisenberg - 2015](%5BSVG%20Essentials%20Kindle%20Edition%20by%20J.%20David%20Eisenberg%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/SVG-Essentials-J-David-Eisenberg-ebook/dp/B00OU5B2W6/ref=mt_kindle?_encoding=UTF8&me=)  
 
+# Socket.IO
+
+[Socket.io Real-time Web Application Development Kindle Edition by Rohit Rai - 2013](%5BSocket.io%20Real-time%20Web%20Application%20Development%20Kindle%20Edition%20by%20Rohit%20Rai%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Socket-io-Real-time-Web-Application-Development-ebook/dp/B00B97Y4BY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1477835199&sr=8-1)  
+
 ## TypeScript
 
 [TypeScript Revealed Kindle Edition by Dan Maharry - 2012](%5BTypeScript%20Revealed%20Kindle%20Edition%20by%20Dan%20Maharry%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/TypeScript-Revealed-Dan-Maharry-ebook/dp/B00ACC6C26/ref=mt_kindle?_encoding=UTF8&me=)  
@@ -147,6 +151,10 @@ The MIT License (MIT)
 [Jasmine Cookbook Kindle Edition by Munish Sethi - 2014](%5BJasmine%20Cookbook%20Kindle%20Edition%20by%20Munish%20Sethi%20-%202014%5D.pdf) [**Buy**](https://www.amazon.com/Jasmine-Cookbook-Munish-Sethi-ebook/dp/B00WQWY8SA?ie=UTF8&qid=1463342954&ref_=tmm_kin_swatch_0&sr=1-1)  
 [JavaScript Unit Testing Kindle Edition by Hazem Saleh - 2013](%5BJavaScript%20Unit%20Testing%20Kindle%20Edition%20by%20Hazem%20Saleh%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/JavaScript-Unit-Testing-Hazem-Saleh-ebook/dp/B00B16YI5U?ie=UTF8&qid=1463343019&ref_=tmm_kin_swatch_0&sr=1-1)  
 [Testable JavaScript Kindle Edition by Mark Ethan Trostler - 2013](%5BTestable%20JavaScript%20Kindle%20Edition%20by%20Mark%20Ethan%20Trostler%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler-ebook/dp/B00B1WLE92/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1466361548&sr=1-1&keywords=Testable+JavaScript)  
+
+## Highcharts
+
+[Learning Highcharts Kindle Edition by Joe Kuan - 2012](%5BLearning%20Highcharts%20Kindle%20Edition%20by%20Joe%20Kuan%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Learning-Highcharts-Joe-Kuan-ebook/dp/B009WQEV2Q/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1477835095&sr=8-2)  
 
 ## HTML5
 
@@ -170,6 +178,9 @@ The MIT License (MIT)
 [Learning HTML5 Game Programming: A Hands-on Guide to Building Online Games Using Canvas, SVG, and WebGL Kindle Edition by James L. Williams - 2012](%5BLearning%20HTML5%20Game%20Programming%20A%20Hands-on%20Guide%20to%20Building%20Online%20Games%20Using%20Canvas%2C%20SVG%2C%20and%20WebGL%20Kindle%20Edition%20by%20James%20L.%20Williams%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Learning-HTML5-Game-Programming-Hands-ebook/dp/B005OR9NH0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1477831522&sr=8-1)  
 [HTML5 Pocket Reference: Quick, Comprehensive, Indispensable (Pocket Reference (O'Reilly)) 5th Edition by Jennifer Niederst Robbins - 2013](%5BHTML5%20Pocket%20Reference%20Quick%2C%20Comprehensive%2C%20Indispensable%20(Pocket%20Reference%20(O'Reilly))%205th%20Edition%20by%20Jennifer%20Niederst%20Robbins%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/HTML5-Pocket-Reference-Comprehensive-Indispensable-ebook/dp/B00FM0OC84/ref=mt_kindle?_encoding=UTF8&me=)  
 [Introducing HTML5 Game Development by Jesse Freeman - 2012](%5BIntroducing%20HTML5%20Game%20Development%20by%20Jesse%20Freeman%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Introducing-HTML5-Game-Development-Author/dp/B010BF1EEE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1477831674&sr=8-1&keywords=.Introducing+HTML5+Game+Development)  
+[HTML5 Solutions: Essential Techniques for HTML5 Developers Kindle Edition by Marco Casario - 2011](%5BHTML5%20Solutions%20Essential%20Techniques%20for%20HTML5%20Developers%20Kindle%20Edition%20by%20Marco%20Casario%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/HTML5-Solutions-Essential-Techniques-Developers-ebook/dp/B005PZ5D6Q/ref=mt_kindle?_encoding=UTF8&me=)  
+[Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages Kindle Edition by Tony Parisi - 2014](%5BProgramming%203D%20Applications%20with%20HTML5%20and%20WebGL%203D%20Animation%20and%20Visualization%20for%20Web%20Pages%20Kindle%20Edition%20by%20Tony%20Parisi%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Programming-Applications-HTML5-WebGL-Visualization-ebook/dp/B00IFMZVI6/ref=mt_kindle?_encoding=UTF8&me=)  
+[Supercharged JavaScript Graphics: with HTML5 canvas, jQuery, and More Kindle Edition by Raffaele Cecco - 2011](%5BSupercharged%20JavaScript%20Graphics%20with%20HTML5%20canvas%2C%20jQuery%2C%20and%20More%20Kindle%20Edition%20by%20Raffaele%20Cecco%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/Supercharged-JavaScript-Graphics-canvas-jQuery-ebook/dp/B005EI85IC/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## HTML
 
